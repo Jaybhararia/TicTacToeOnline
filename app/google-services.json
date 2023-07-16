@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531158389810",
+    "project_id": "jerokata-8cc63",
+    "storage_bucket": "jerokata-8cc63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531158389810:android:0681164983e196ff39582b",
+        "android_client_info": {
+          "package_name": "com.example.tictactoeonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531158389810-f4jvb4u1mtjrkndlpfma24vmqsp3letr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIEUM2B1f_6X6gAdnhP17zXQcQGHhNJ4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531158389810-f4jvb4u1mtjrkndlpfma24vmqsp3letr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
